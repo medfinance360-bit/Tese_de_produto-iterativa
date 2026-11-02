@@ -1,0 +1,8 @@
+{
+  "name": "Remix Plantão360 Strategy",
+  "description": "Painel estratégico interativo de produto, MVP e arquitetura do webapp Plantão360.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
